@@ -1,0 +1,38 @@
+[
+  {
+    "name": "VACA COSMOPOLITA",
+    "price": "15.300,00",
+    "detail": "Aprimore seu rebanho com animais de alta qualidade genética.",
+    "image": "./produto01.png"
+  },
+  {
+    "name": "VACA GIROLANDO",
+    "price": "15.300",
+    "detail": "MPERDÍVEL!!!!!!!!! FILHA DA EDILEUZA DA GRAMEAL.",
+    "image": "./produto02.png"
+  },
+  {
+    "name": "LOTE 625 -VACA ",
+    "price": "35,853",
+    "detail": "DÉBORA 023 STONE DA GRAMEAL",
+    "image": "./produto03.png"
+  },
+  {
+    "name": "VACA EVA 007",
+    "price": "47,043",
+    "detail": "EVA 007 PARAMOUNT DA GRAMEAL",
+    "image": "./produto04.png"
+  },
+  {
+    "name": "VACA GIROLANDO 65",
+    "price": "66,353",
+    "detail": "VACA GIROLANDO 659 GSRJ - LOTE 609 Fazenda Santa Rosa",
+    "image": "./produto05.png"
+  },
+  {
+    "name": "VACA ALOMENA 788 ",
+    "price": "35,853",
+    "detail": "ALOMENA 788 HEROS GSRJ",
+    "image": "./produto06.png"
+  }
+]
