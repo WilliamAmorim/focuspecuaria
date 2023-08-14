@@ -96,7 +96,7 @@ a {
   transform: scale();
 }
 .white-gradiente{
-  background-image: url("./gado.jpg");
+  background-image: url("../gado.jpg");
   background-position: center;
   background-size: cover;
   
