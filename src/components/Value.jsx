@@ -7,7 +7,7 @@ import{
     AccordionItemState} from 'react-accessible-accordion'
 import "react-accessible-accordion/dist/fancy-example.css";
 import {MdOutlineArrowDropDown} from 'react-icons/md'
-import './value.css'
+import './Value.css'
 import data from '../utils/accordion'
 const Value = () => {
     return(
