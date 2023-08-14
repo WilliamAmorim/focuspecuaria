@@ -6,7 +6,7 @@ const Footer = () =>{
                 <div className="flexColStart f-left">
                 <img src="./boi.png" alt="logo" width={67} height={67}/>
                     <span  className="secondaryText">
-                        Explorando a Excelência Bovina: Seu Destino Online para Adquirir e Investir em Gado de Qualidade.
+                        Explorando a Excelência Bovina: Seu Destino Online<br></br> para Adquirir e Investir em Gado de Qualidade.
                     </span>
                 </div>
                 <div className="flexColStart f-right">
